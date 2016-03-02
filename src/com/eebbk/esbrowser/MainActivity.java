@@ -15,6 +15,14 @@ public class MainActivity extends Activity {
 		System.out.println("add new line");
 		System.out.println("add new line");
 		System.out.println("add new line");
+		System.out.println("add new line");
+		System.out.println("add new line");
+		System.out.println("add new line");
+		System.out.println("add new line");
+		System.out.println("add new line");
+		System.out.println("add new line");
+		System.out.println("add new line");
+		System.out.println("add new line");
 		
 	
 		
