@@ -13,8 +13,7 @@ public class MainActivity extends Activity {
 		setContentView(R.layout.activity_main);
 		System.out.println("add new line");
 		System.out.println("add new line");
-		System.out.println("add new line");
-		System.out.println("add new line");
+		
 	}
 
 	@Override
