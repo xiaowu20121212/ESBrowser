@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<color name="normal_blue">#0000FF</color><!--蓝色 -->   
+<color name="medium_blue">#0000CD</color><!--中蓝色 -->   
+<color name="dark_blue">#00008B</color><!--暗蓝色 --> 
+ <color name="light_blue">#0099ff</color>
+   
+
+</resources>

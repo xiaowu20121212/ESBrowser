@@ -1,4 +1,4 @@
-package com.eebbk.esbrowser.activity;
+package com.eebbk.bbksuperexplorer.activity;
 
 import java.util.ArrayList;
 
@@ -8,12 +8,12 @@ import android.support.v4.widget.DrawerLayout;
 import android.view.Gravity;
 import android.view.View;
 
+import com.eebbk.bbksuperexplorer.adapter.BaseFragmentPagerAdapter;
+import com.eebbk.bbksuperexplorer.base.BaseActivity;
+import com.eebbk.bbksuperexplorer.fragment.MainFragment;
+import com.eebbk.bbksuperexplorer.fragment.MenuLeftFragment;
+import com.eebbk.bbksuperexplorer.fragment.MenuRightFragment;
 import com.eebbk.esbrowser.R;
-import com.eebbk.esbrowser.adapter.BaseFragmentPagerAdapter;
-import com.eebbk.esbrowser.base.BaseActivity;
-import com.eebbk.esbrowser.fragment.MainFragment;
-import com.eebbk.esbrowser.fragment.MenuLeftFragment;
-import com.eebbk.esbrowser.fragment.MenuRightFragment;
 
 public class MainActivity extends BaseActivity {
 

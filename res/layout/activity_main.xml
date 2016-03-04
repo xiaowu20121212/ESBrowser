@@ -73,7 +73,7 @@
 
     <fragment
         android:id="@+id/menu_left"
-        android:name="com.eebbk.esbrowser.fragment.MenuLeftFragment"
+        android:name="com.eebbk.bbksuperexplorer.fragment.MenuLeftFragment"
         android:layout_width="@dimen/space_size_250"
         android:layout_height="match_parent"
         android:layout_gravity="start"
@@ -82,7 +82,7 @@
 
     <fragment
         android:id="@+id/menu_right"
-        android:name="com.eebbk.esbrowser.fragment.MenuRightFragment"
+        android:name="com.eebbk.bbksuperexplorer.fragment.MenuRightFragment"
         android:layout_width="@dimen/space_size_250"
         android:layout_height="match_parent"
         android:layout_gravity="end"
