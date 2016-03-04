@@ -3,5 +3,49 @@
     <!-- Default screen margins, per the Android Design guidelines. -->
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
-
+    <dimen name="slidingmenu_offset">60dp</dimen>
+    <dimen name="shadow_width">5dp</dimen>
+    <dimen name="title_text_size">20sp</dimen>
+    <dimen name="leftmenusize">16sp</dimen>
+    <dimen name="leftmenusize1">14sp</dimen>
+    <dimen name="bottom_tab_font_size">13sp</dimen>
+    <dimen name="bottom_tab_padding_up">5.0dip</dimen>
+    <dimen name="bottom_tab_padding_drawable">2.0dip</dimen>
+    <dimen name="XLargeTextSize">20.0dip</dimen>
+    <dimen name="LargerTextSize">17.0dip</dimen>
+    <dimen name="LargeTextSize">13.8dip</dimen>
+    <dimen name="BasicTextSize">18.2dip</dimen>
+    <dimen name="TitleTextSize">25sp</dimen>
+    <dimen name="SmallTextSize">17.8dip</dimen>
+    <dimen name="SmallerTextSize">17.0dip</dimen>
+    <dimen name="SmallestTextSize">15.8dip</dimen>
+    <dimen name="LargestTextSize">30.0dip</dimen>
+    <dimen name="ChattingStepTextSize">13.1dip</dimen>
+    <dimen name="ChattingTextSize">17.0dip</dimen>
+    <dimen name="offset_width">60dp</dimen>
+    <dimen name="smalltitle">14.7dip</dimen>
+    <dimen name="smallisttext">12.9dip</dimen>
+    <!-- 18.6px -->
+    <dimen name="smallefttext">13.8dip</dimen>
+    <!-- 20px -->
+    <dimen name="smalltext1">11.2dip</dimen>
+    <!-- 16px -->
+    <dimen name="font_size_sobig">30sp</dimen>
+    <dimen name="font_size_xxxlarge">22sp</dimen>
+    <dimen name="font_size_xxlarge">20sp</dimen>
+    <dimen name="font_size_xlarge">18sp</dimen>
+    <dimen name="font_size_large">16sp</dimen>
+    <dimen name="font_size_normal">14sp</dimen>
+    <dimen name="font_size_default">12sp</dimen>
+    <dimen name="font_size_small">10sp</dimen>
+    <dimen name="font_size_msmall">8sp</dimen>
+    <dimen name="space_size_small">5dip</dimen>
+    <dimen name="space_size_default">10dip</dimen>
+    <dimen name="space_size_normal">15dip</dimen>
+    <dimen name="space_size_large">20dip</dimen>
+    <dimen name="space_size_xlarge">30dip</dimen>
+    <dimen name="space_size_xxlarge">40dip</dimen>
+    <dimen name="space_size_xxxlarge">50dip</dimen>
+    <dimen name="space_size_250">250dp</dimen>
+    
 </resources>
